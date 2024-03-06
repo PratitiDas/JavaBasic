@@ -24,6 +24,7 @@ import java.util.*;
 
     public static void main(String[] args) {
 
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the row no:");
         int row = sc.nextInt();

@@ -5,12 +5,9 @@
  * ****
  * *****
  */
-public class InnerPattern1 {
 
-    
-}package Patterns;
 
-import java.util.*;
+//import java.util.*;
 
 public class Pattern1{
 

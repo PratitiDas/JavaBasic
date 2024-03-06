@@ -5,7 +5,7 @@
 1234
 12345
 */
-import java.util.*;
+//import java.util.*;
 
 public class Pattern3{
 
